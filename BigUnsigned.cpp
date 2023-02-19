@@ -2,7 +2,7 @@
  * Assignment: Exercise 4
  * Original Author: Ace Programmer
  * Date: 28 September 2022
- * Modified by: Zach Gassner
+ * Modified by: Zach Gassner & Justin Blechel
  * Date: 4 November 2022
  * Description: This file contains the implementation of the methods of a
  *      class called BigUnsigned. Values are store using the little-endian
